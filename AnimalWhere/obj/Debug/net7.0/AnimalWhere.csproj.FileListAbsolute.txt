@@ -1,0 +1,14 @@
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\bin\Debug\net7.0\AnimalWhere.exe
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\bin\Debug\net7.0\AnimalWhere.deps.json
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\bin\Debug\net7.0\AnimalWhere.runtimeconfig.json
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\bin\Debug\net7.0\AnimalWhere.dll
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\bin\Debug\net7.0\AnimalWhere.pdb
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\obj\Debug\net7.0\AnimalWhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\obj\Debug\net7.0\AnimalWhere.AssemblyInfoInputs.cache
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\obj\Debug\net7.0\AnimalWhere.AssemblyInfo.cs
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\obj\Debug\net7.0\AnimalWhere.csproj.CoreCompileInputs.cache
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\obj\Debug\net7.0\AnimalWhere.dll
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\obj\Debug\net7.0\refint\AnimalWhere.dll
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\obj\Debug\net7.0\AnimalWhere.pdb
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\obj\Debug\net7.0\AnimalWhere.genruntimeconfig.cache
+C:\Users\Brandocean\Desktop\Curso-linq\AnimalWhere\obj\Debug\net7.0\ref\AnimalWhere.dll
